@@ -9,6 +9,9 @@ credentials
 .idea
 .mvn
 .settings
+mvnw
+mvnw.cmd
+
 
 
 .aws-sam
